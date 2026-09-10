@@ -1,11 +1,25 @@
-# CCM101 Cloud Computing Portfolio
+# Continue Your Linux Investigation
 
-## About Me
+The KillerCoda Playground was used to inspect the main specifications of a Linux server. The investigation focused on four important areas: the operating system, processor, memory, and disk storage. Linux commands were used to obtain the information directly from the server.
 
-Hello! My name is **Sharmaine May E. Antolin**, and I am a **4th-year Bachelor of Science in Information Technology (BSIT) student at the University of Eastern Pangasinan**. This repository serves as my Cloud Computing portfolio for CCM101.
+### Linux Commands Used
 
-## About This Repository
+The following commands were executed in the KillerCoda environment:
 
-This repository contains the laboratory activities, documentation, screenshots, and other outputs I complete throughout the semester. It serves as a collection of my practical activities and exercises involving cloud computing, Linux, and other related technologies.
+- `cat /etc/os-release` – identifies the Linux distribution and provides details about the operating system.
+- `lscpu` – provides information about the processor, including its architecture and available CPU resources.
+- `free -h` – shows the amount of total, used, and available memory in an easier-to-read format.
+- `df -h` – checks the disk storage and shows how much space is currently used and available.
 
-The repository will be updated as I complete new laboratory activities and requirements during the semester.
+### Terminal Output
+
+The terminal screenshot presents the information collected from the Linux server using the commands above. It serves as evidence of the system investigation performed in the KillerCoda Playground.
+![Linux System Information](screenshots/killercoda-terminal.png)
+
+### Cloud Migration Recommendation
+
+If the Linux server were transferred to a cloud environment, it could be hosted using virtual machine services from the three major cloud providers. These services provide the computing environment needed to run a Linux-based server.
+
+- **AWS – Amazon EC2:** Provides virtual computing instances that can be configured to run Linux operating systems.
+- **Microsoft Azure – Azure Virtual Machines:** Allows users to deploy Linux servers as virtual machines in the Azure environment.
+- **Google Cloud Platform – Compute Engine:** Provides configurable virtual machines that can be used to host Linux servers and applications.
