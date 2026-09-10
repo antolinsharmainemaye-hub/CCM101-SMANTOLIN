@@ -1,0 +1,11 @@
+# Mission Reflection
+
+During this mission, I was most impressed by Amazon Web Services (AWS). I found it interesting because it has many different services that can be used for various business needs. I also learned that cloud resources can be adjusted depending on how much a company needs, which can be useful for businesses that are still growing.
+
+AWS, Microsoft Azure, and Google Cloud Platform are similar because they all provide cloud-based resources that organizations can use to run and manage their systems. They offer services for computing, storage, networking, databases, and security. Another similarity is that they allow users to manage their resources through online cloud platforms instead of depending only on physical servers.
+
+The requirements of a business are important when deciding which cloud provider to use. A company needs to consider its budget, existing technology, type of application, number of users, security needs, and expected growth. During the activity, I learned that different clients may need different cloud providers. For example, a university using Microsoft products may benefit more from Azure, while an AI research company may prefer GCP because of its AI and machine learning capabilities.
+
+Working as a Cloud Solutions Consultant helped me understand how cloud platforms can be evaluated based on real business situations. I learned that I should first understand what the client needs before recommending a cloud provider. I also gained experience in comparing services and explaining why a particular platform would be appropriate for a specific situation.
+
+After finishing this mission, my GitHub Cloud Computing Portfolio became more complete because I added several documents related to AWS, Azure, and GCP. I also learned how to organize research files, create comparison tables, document recommendations, and include screenshots as evidence. This activity improved my knowledge of cloud computing and made me more confident in using GitHub for technical documentation.
