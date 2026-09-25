@@ -24,11 +24,12 @@ docker-compose up -d
 docker-compose ps
 docker-compose down
 
-Skills Learned
-Creating and editing YAML configuration files using the Linux terminal.
-Understanding multi-tier application architecture.
-Using Docker Compose to define and manage multiple containers.
-Connecting application and database containers using Docker Compose service names.
-Using environment variables to configure containerized applications.
-Verifying running containers using docker-compose ps.
-Deploying and gracefully shutting down a multi-container application.
+## Skills Learned
+
+- Creating and editing YAML configuration files using the Linux terminal.
+- Understanding multi-tier application architecture.
+- Using Docker Compose to define and manage multiple containers.
+- Connecting application and database containers using Docker Compose service names.
+- Using environment variables to configure containerized applications.
+- Verifying running containers using `docker-compose ps`.
+- Deploying and gracefully shutting down a multi-container application.
