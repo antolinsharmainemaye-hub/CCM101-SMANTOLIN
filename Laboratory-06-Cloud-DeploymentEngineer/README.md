@@ -23,6 +23,7 @@ docker-compose config
 docker-compose up -d
 docker-compose ps
 docker-compose down
+```
 
 ## Skills Learned
 
@@ -33,3 +34,4 @@ docker-compose down
 - Using environment variables to configure containerized applications.
 - Verifying running containers using `docker-compose ps`.
 - Deploying and gracefully shutting down a multi-container application.
+- Understanding Infrastructure as Code (IaC) and its role in cloud deployment.
